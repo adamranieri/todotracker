@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adamranieri/todotracker/static/css/main.073c9b0a.css",
+    "main.js": "/adamranieri/todotracker/static/js/main.440e6783.js",
+    "static/js/787.419f3abf.chunk.js": "/adamranieri/todotracker/static/js/787.419f3abf.chunk.js",
+    "index.html": "/adamranieri/todotracker/index.html",
+    "main.073c9b0a.css.map": "/adamranieri/todotracker/static/css/main.073c9b0a.css.map",
+    "main.440e6783.js.map": "/adamranieri/todotracker/static/js/main.440e6783.js.map",
+    "787.419f3abf.chunk.js.map": "/adamranieri/todotracker/static/js/787.419f3abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.440e6783.js"
+  ]
+}
